@@ -1,0 +1,62 @@
+.sidenav {
+  height: 100%; /* Full-height: remove this if you want "auto" height */
+  width: 160px; /* Set the width of the sidebar */
+  position: fixed; /* Fixed Sidebar (stay in place on scroll) */
+  z-index: 1; /* Stay on top */
+  top: 0; /* Stay at the top */
+  left: 0;
+  background-color: #111; /* Black */
+  overflow-x: hidden; /* Disable horizontal scroll */
+  padding-top: 20px;
+}
+.sidenav a {
+  color: rgb(255, 255, 255);
+}
+.sidenav a:hover {
+  color: rgb(104, 4, 95);
+}
+.header {
+  margin: 0px 0px 0px 160px;
+  background-color: blanchedalmond;
+  color: brown;
+  border: 1px solid burlywood;
+  text-align: center;
+}
+.awards {
+  margin-left: 160px;
+  background-color: burlywood;
+  color: brown;
+  border: 1px solid burlywood;
+}
+#list.awards {
+  list-style: square;
+}
+.about {
+  margin-left: 160px;
+  background-color: blanchedalmond;
+  color: brown;
+  border: 1px solid burlywood;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+.exp {
+  margin-left: 160px;
+  background-color: blanchedalmond;
+  color: brown;
+  border: 1px solid burlywood;
+}
+address {
+  margin-left: 160px;
+  background-color: blanchedalmond;
+  color: brown;
+  border: 1px solid burlywood;
+}
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
