@@ -55,8 +55,18 @@ address {
   color: brown;
   border: 1px solid burlywood;
 }
+.clock {
+  margin-left: 1710px;
+  background-color: blanchedalmond;
+  color: brown;
+  border: 0px solid burlywood;
+}
 html,
 body {
   margin: 0;
   padding: 0;
+  background-color: blanchedalmond;
+}
+#clocky {
+  padding-left: 89%;
 }
